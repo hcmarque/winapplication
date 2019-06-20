@@ -23,4 +23,4 @@
 # SOFTWARE.
 
 Add-WindowsFeature Web-Server
-Set-Content -Path "C:\inetpub\wwwroot\Default.htm" -Value "Hi Paho Team! We are using UPDATED VMSS from host $($env:computername) !"
+Set-Content -Path "C:\inetpub\wwwroot\Default.htm" -Value "Hi Paho Team! We are using UPDATED VMSS006 from host $($env:computername) !"
