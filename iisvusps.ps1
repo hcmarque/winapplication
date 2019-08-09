@@ -23,4 +23,4 @@
 # SOFTWARE.
 
 Add-WindowsFeature Web-Server
-Set-Content -Path "C:\inetpub\wwwroot\Default.htm" -Value "Hi US POSTAL SERVICE TEAM Team! We are demonstrating the Azure Load Balance solutions from host $($env:computername) !"
+Set-Content -Path "C:\inetpub\wwwroot\Default.htm" -Value "Hi Team! We are demonstrating the Azure Load Balance solutions from host $($env:computername) !"
